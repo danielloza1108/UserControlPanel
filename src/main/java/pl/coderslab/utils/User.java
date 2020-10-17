@@ -1,3 +1,5 @@
+package pl.coderslab.utils;
+
 public class User {
     private  int id;
     private  String userName;
